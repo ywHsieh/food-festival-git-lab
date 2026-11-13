@@ -1,4 +1,4 @@
-budget = 20000 
+budget = 30000 
 expense = 8000 
 remaining = budget - expense
 print("Total budget:", budget)
