@@ -4,3 +4,4 @@ remaining = budget - expense
 print("Total budget:", budget)
 print("Expense:", expense)
 print("Remaining budget:", remaining)
+print("Category: food")
